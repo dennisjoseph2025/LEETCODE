@@ -6,7 +6,6 @@ class Solution(object):
         :rtype: List[int]
         """
         a= []
-        b=''
         for id,i in enumerate(words):
             if x in i:
                 a.append(id)
