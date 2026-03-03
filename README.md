@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0989-add-to-array-form-of-integer](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/0989-add-to-array-form-of-integer) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1903-largest-odd-number-in-string](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/1903-largest-odd-number-in-string) |
+| [3024-type-of-triangle](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/3024-type-of-triangle) |
 ## String
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2942-find-words-containing-character](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/2942-find-words-containing-character) |
 | [2974-minimum-number-game](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/2974-minimum-number-game) |
+| [3024-type-of-triangle](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/3024-type-of-triangle) |
 ## Hash Table
 |  |
 | ------- |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/0217-contains-duplicate) |
 | [2974-minimum-number-game](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/2974-minimum-number-game) |
+| [3024-type-of-triangle](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/3024-type-of-triangle) |
 ## Prefix Sum
 |  |
 | ------- |
