@@ -89,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2974-minimum-number-game](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/2974-minimum-number-game) |
+## Database
+|  |
+| ------- |
+| [0577-employee-bonus](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/0577-employee-bonus) |
 <!---LeetCode Topics End-->
