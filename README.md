@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0989-add-to-array-form-of-integer](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/0989-add-to-array-form-of-integer) |
 | [1480-running-sum-of-1d-array](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/1480-running-sum-of-1d-array) |
+| [1672-richest-customer-wealth](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/1672-richest-customer-wealth) |
 | [1816-truncate-sentence](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/1816-truncate-sentence) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -116,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1704-determine-if-string-halves-are-alike](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/1704-determine-if-string-halves-are-alike) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
