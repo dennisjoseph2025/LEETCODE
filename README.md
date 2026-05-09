@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/0412-fizz-buzz) |
+| [1389-create-target-array-in-the-given-order](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/1389-create-target-array-in-the-given-order) |
 | [2974-minimum-number-game](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/2974-minimum-number-game) |
 ## Array
 |  |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0989-add-to-array-form-of-integer](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/0989-add-to-array-form-of-integer) |
+| [1389-create-target-array-in-the-given-order](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/1389-create-target-array-in-the-given-order) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/1480-running-sum-of-1d-array) |
