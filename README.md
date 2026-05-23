@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/0412-fizz-buzz) |
 | [1389-create-target-array-in-the-given-order](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/1389-create-target-array-in-the-given-order) |
 | [2974-minimum-number-game](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/2974-minimum-number-game) |
+| [3925-concatenate-array-with-reverse](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/3925-concatenate-array-with-reverse) |
 ## Array
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/2942-find-words-containing-character) |
 | [2974-minimum-number-game](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/3024-type-of-triangle) |
+| [3925-concatenate-array-with-reverse](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
 |  |
 | ------- |
