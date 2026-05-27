@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/0412-fizz-buzz) |
 | [1389-create-target-array-in-the-given-order](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/1389-create-target-array-in-the-given-order) |
+| [1929-concatenation-of-array](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/1929-concatenation-of-array) |
 | [2974-minimum-number-game](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/2974-minimum-number-game) |
 | [3925-concatenate-array-with-reverse](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/3925-concatenate-array-with-reverse) |
 ## Array
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/1672-richest-customer-wealth) |
 | [1816-truncate-sentence](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/1816-truncate-sentence) |
+| [1929-concatenation-of-array](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/1929-concatenation-of-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/2215-find-the-difference-of-two-arrays) |
