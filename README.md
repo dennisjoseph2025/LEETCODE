@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/1672-richest-customer-wealth) |
+| [1732-find-the-highest-altitude](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/1732-find-the-highest-altitude) |
 | [1816-truncate-sentence](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/1816-truncate-sentence) |
 | [1929-concatenation-of-array](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/1929-concatenation-of-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/1480-running-sum-of-1d-array) |
+| [1732-find-the-highest-altitude](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/1732-find-the-highest-altitude) |
 ## Number Theory
 |  |
 | ------- |
