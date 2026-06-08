@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2574-left-and-right-sum-differences](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/2574-left-and-right-sum-differences) |
 | [2942-find-words-containing-character](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/2942-find-words-containing-character) |
 | [2974-minimum-number-game](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/3024-type-of-triangle) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/1732-find-the-highest-altitude) |
+| [2574-left-and-right-sum-differences](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/2574-left-and-right-sum-differences) |
 ## Number Theory
 |  |
 | ------- |
