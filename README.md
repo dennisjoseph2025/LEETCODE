@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/1903-largest-odd-number-in-string) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2942-find-words-containing-character](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/2942-find-words-containing-character) |
 | [3019-number-of-changing-keys](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/3019-number-of-changing-keys) |
 | [3110-score-of-a-string](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/3110-score-of-a-string) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/1929-concatenation-of-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/2574-left-and-right-sum-differences) |
@@ -135,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/1672-richest-customer-wealth) |
+## String Matching
+|  |
+| ------- |
+| [2185-counting-words-with-a-given-prefix](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/2185-counting-words-with-a-given-prefix) |
 <!---LeetCode Topics End-->
