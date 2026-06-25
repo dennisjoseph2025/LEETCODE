@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/0013-roman-to-integer) |
 | [0258-add-digits](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/0258-add-digits) |
+| [0342-power-of-four](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/0412-fizz-buzz) |
 | [0989-add-to-array-form-of-integer](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/0989-add-to-array-form-of-integer) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -141,4 +142,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2185-counting-words-with-a-given-prefix](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/2185-counting-words-with-a-given-prefix) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/0342-power-of-four) |
+## Recursion
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
