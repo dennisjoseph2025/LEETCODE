@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/1480-running-sum-of-1d-array) |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1672-richest-customer-wealth](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/1732-find-the-highest-altitude) |
 | [1816-truncate-sentence](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/1816-truncate-sentence) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2974-minimum-number-game](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/3024-type-of-triangle) |
 ## Prefix Sum
