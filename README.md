@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/0412-fizz-buzz) |
 | [1389-create-target-array-in-the-given-order](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/1389-create-target-array-in-the-given-order) |
+| [1920-build-array-from-permutation](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/1929-concatenation-of-array) |
 | [2974-minimum-number-game](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/2974-minimum-number-game) |
 | [3925-concatenate-array-with-reverse](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/3925-concatenate-array-with-reverse) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/1732-find-the-highest-altitude) |
 | [1773-count-items-matching-a-rule](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/1773-count-items-matching-a-rule) |
 | [1816-truncate-sentence](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/1816-truncate-sentence) |
+| [1920-build-array-from-permutation](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/1929-concatenation-of-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/2114-maximum-number-of-words-found-in-sentences) |
