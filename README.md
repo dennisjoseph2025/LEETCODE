@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/0013-roman-to-integer) |
 | [0412-fizz-buzz](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/0709-to-lower-case) |
+| [0771-jewels-and-stones](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/0771-jewels-and-stones) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1773-count-items-matching-a-rule](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/1773-count-items-matching-a-rule) |
 | [1816-truncate-sentence](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/1816-truncate-sentence) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
+| [0771-jewels-and-stones](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/0771-jewels-and-stones) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Two Pointers
