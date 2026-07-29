@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/2942-find-words-containing-character) |
 | [3019-number-of-changing-keys](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/3019-number-of-changing-keys) |
 | [3110-score-of-a-string](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/3110-score-of-a-string) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Simulation
 |  |
 | ------- |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/0771-jewels-and-stones) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/2215-find-the-difference-of-two-arrays) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Two Pointers
 |  |
 | ------- |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1704-determine-if-string-halves-are-alike](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/1704-determine-if-string-halves-are-alike) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Matrix
 |  |
 | ------- |
