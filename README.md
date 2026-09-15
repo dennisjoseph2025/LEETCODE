@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0704-binary-search](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/0704-binary-search) |
 | [0989-add-to-array-form-of-integer](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/0989-add-to-array-form-of-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0771-jewels-and-stones](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/0771-jewels-and-stones) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2974-minimum-number-game](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/3024-type-of-triangle) |
