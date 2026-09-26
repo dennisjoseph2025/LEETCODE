@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/0013-roman-to-integer) |
 | [0231-power-of-two](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/0258-add-digits) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/0005-longest-palindromic-substring) |
+| [0012-integer-to-roman](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/0013-roman-to-integer) |
 | [0412-fizz-buzz](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/0709-to-lower-case) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
