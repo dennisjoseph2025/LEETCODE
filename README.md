@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/0258-add-digits) |
 | [0342-power-of-four](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/0342-power-of-four) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/0069-sqrtx) |
 | [0349-intersection-of-two-arrays](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/0704-binary-search) |
 ## Counting
@@ -204,4 +206,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
