@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/0058-length-of-last-word) |
 | [0412-fizz-buzz](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/0412-fizz-buzz) |
@@ -210,4 +211,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/0069-sqrtx) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
