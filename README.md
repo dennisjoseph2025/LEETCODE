@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/0258-add-digits) |
 | [0342-power-of-four](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/0342-power-of-four) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/0136-single-number) |
+| [0189-rotate-array](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/2108-find-first-palindromic-string-in-the-array) |
