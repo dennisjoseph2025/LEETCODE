@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/0342-power-of-four) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
