@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/0283-move-zeroes) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -180,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/0169-majority-element) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/1704-determine-if-string-halves-are-alike) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Matrix
@@ -227,4 +231,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/0020-valid-parentheses) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/dennisjoseph2025-dotcom/LEETCODE/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
